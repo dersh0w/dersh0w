@@ -3,7 +3,7 @@
 
 - 👨‍💻 My name is Anderson Carneiro, I'm 25 and I live in **Londrina, Paraná**;
 - 🚀 I've been working as a backend developer since **2021;**
-- 🌱 I’m currently learning **Java and frontend development;**
+- 🌱 I’m currently learning **PHP and frontend development;**
 - ⚡  I really like to learn about **Cyber Security** and  **Design Patterns;**
 
 <a href="#"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWx2OGl3bDF2ZDc2cnZ1c3R2dHo4bGpscmE4NGRoOHc3aDh1MHdxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zvgb12U8GNjvq/giphy.gif" min-width="250px" max-width="250px"
